@@ -22,3 +22,5 @@ This app is a fun and simple way to explore how AI can write text. It can be use
 
 *output* :
 
+![Image](https://github.com/user-attachments/assets/873db8cc-b0dd-4404-bd84-1be3d2c88e5d)
+
